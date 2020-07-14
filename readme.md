@@ -1,4 +1,4 @@
-# DD-Gaia-substructure
+# Jet Substructures in a 100 TeV Collider
 
 Project: <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.036017">Jet Observables and Stops at 100 TeV Collider</a>
 
@@ -16,11 +16,11 @@ By using jet substructure variables, we study the sensitivity of a 100 TeV proto
 
 There are different possibilities for stop quark to decay depending on the supersymmetry (SUSY) model,
 
-\~t → t + MET  (100% stop-bino, 50% stop-higgsino),
+\~{t} → t + MET  (100% stop-bino, 50% stop-higgsino),
 
-\~t → b + MET  (50% stop-higgsino).
+\~{t} → b + MET  (50% stop-higgsino).
 
-We will demonstrate two of the cuts. The first one we demonstrate is the leading jet $p_T$ cut. From the plot below, we can see that stops typically give a large leading jet $p_T$. This is one of the most powerful tools to separate a SUSY signal from Standard Model background.
+We will demonstrate two of the cuts. The first one we demonstrate is the leading jet pT cut. From the plot below, we can see that stops typically give a large leading jet pT. This is one of the most powerful tools to separate a SUSY signal from Standard Model background.
 
 <img src="plots/JetpT.png" width="60%">
 
