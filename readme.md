@@ -16,9 +16,9 @@ By using jet substructure variables, we study the sensitivity of a 100 TeV proto
 
 There are different possibilities for stop quark to decay depending on the supersymmetry (SUSY) model,
 
-\~{t} → t + MET  (100% stop-bino, 50% stop-higgsino),
+st → t + MET  (100% stop-bino, 50% stop-higgsino),
 
-\~{t} → b + MET  (50% stop-higgsino).
+st → b + MET  (50% stop-higgsino).
 
 We will demonstrate two of the cuts. The first one we demonstrate is the leading jet pT cut. From the plot below, we can see that stops typically give a large leading jet pT. This is one of the most powerful tools to separate a SUSY signal from Standard Model background.
 
@@ -30,6 +30,8 @@ To distinguish between different SUSY models, we have to identify the 50% chance
 
 <img src="plots/massdrop.png" width="60%">
 
-In the same plot, we also show the dominant SM background. We can see
+In the same plot, we also show the dominant SM background that gives the similar massdrop. We can see that ttbar contributes massdrop background to stop to top, and QCD is the dominant background for stop to bottom in massdrop. This is because ttbar are boosted in a 100 TeV collider and cotribute to boosted top, and similarly boosted bottom coming from QCD. These SM background has to be filtered by other cuts.
 
 <img src="plots/contours.png" width="80%">
+
+The final result is shown above. Assuming 10% systematic uncertainties, the future 100 TeV collider can discover (exclude) stops with masses up to 6 (7) TeV with 3  inverse attobarn of integrated luminosity if the stops decay to bino/higgsinos. At stops with mass 6 TeV, we can also determine whether the lightest supersymmetry particle (LSP) is a higgsino or bino.
