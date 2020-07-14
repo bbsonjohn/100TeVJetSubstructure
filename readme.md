@@ -34,4 +34,4 @@ In the same plot, we also show the dominant SM background that gives the similar
 
 <img src="plots/contours.png" width="80%">
 
-The final result is shown above. Assuming 10% systematic uncertainties, the future 100 TeV collider can discover (exclude) stops with masses up to 6 (7) TeV with 3  inverse attobarn of integrated luminosity if the stops decay to bino/higgsinos. At stops with mass 6 TeV, we can also determine whether the lightest supersymmetry particle (LSP) is a higgsino or bino.
+The final result is shown above. Assuming 10% systematic uncertainties, the future 100 TeV collider can discover (exclude) stops with masses up to 6 (7) TeV with 3  inverse attobarn of integrated luminosity if the stops decay to binos/higgsinos. At stops with mass ≤ 6 TeV, we can also determine whether the lightest supersymmetry particle (LSP) is a higgsino or bino.
