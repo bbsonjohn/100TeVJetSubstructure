@@ -20,7 +20,7 @@ st → t + MET  (100% stop-bino, 50% stop-higgsino),
 
 st → b + MET  (50% stop-higgsino).
 
-We will demonstrate two of the cuts. The first one we demonstrate is the leading jet pT cut. From the plot below, we can see that stops typically give a large leading jet pT. This is one of the most powerful tools to separate a SUSY signal from Standard Model background.
+We will demonstrate two of the cuts. The first one we demonstrate is the leading jet pT cut. From the plot below, we can see that stops typically give a large leading jet pT. This is one of the most powerful tools to separate a SUSY signal from Standard Model (SM) background.
 
 <img src="plots/JetpT.png" width="60%">
 
