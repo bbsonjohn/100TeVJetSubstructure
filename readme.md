@@ -30,7 +30,7 @@ To distinguish between different SUSY models, we have to identify the 50% chance
 
 <img src="plots/massdrop.png" width="60%">
 
-In the same plot, we also show the dominant SM background that gives the similar massdrops. We can see that ttbar contributes similar massdrop spectrum to stop to top, and QCD background is similar in massdrop to stop to bottom. This is because ttbar are boosted in a 100 TeV collider and are source of boosted tops, and similarly boosted bottoms coming from energetic QCD jets. These SM backgrounds have to be filtered by other cuts.
+In the same plot, we also show the dominant SM background that gives the similar massdrops. We can see that ttbar contributes similar massdrop spectrum to stop to top, and QCD background is similar in massdrop to stop to bottom. This is because ttbar are boosted in a 100 TeV collider and are sources of boosted tops, and similarly boosted bottoms coming from energetic QCD jets. These SM backgrounds have to be filtered by other cuts.
 
 <img src="plots/contours.png" width="80%">
 
