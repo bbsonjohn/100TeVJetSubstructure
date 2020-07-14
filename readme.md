@@ -26,7 +26,7 @@ We will demonstrate two of the cuts. The first one we demonstrate is the leading
 
 Another one of such variable that behaves like this is the missing tranverse energy (MET). 
 
-To distinguish between different SUSY models, we have to identify the 50% chance of boosted b-quarks produced stop decays in stop-higgsino model. Here we can use the massdrop variable, which is 1 minus the jet mass without muon divided by jet mass with muon included. As we can see in the following plot, the stop decaying to top, and that to bottom give very different massdrop spectrum.
+To distinguish between different SUSY models, we have to identify the 50% chance of boosted b-quarks produced from stop decays in stop-higgsino model (which does not happen in stop-bino model). Here we can use the massdrop variable, which is 1 minus the jet mass without muon divided by jet mass with muon included. As we can see in the following plot, the stop decaying to top, and that to bottom give very different massdrop spectrum.
 
 <img src="plots/massdrop.png" width="60%">
 
