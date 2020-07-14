@@ -4,7 +4,7 @@ Project: <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.0360
 
 Author: <a href="http://inspirehep.net/author/profile/Shing.Chau.Leung.1">John Leung</a>
 
-arXiv: <a href="https://arxiv.org/abs/1704.03014">1704.03014</a>
+ArXiv: <a href="https://arxiv.org/abs/1704.03014">1704.03014</a>
 
 Date: 2017
 
