@@ -14,5 +14,20 @@ By using jet substructure variables, we study the sensitivity of a 100 TeV proto
 
 **The work is done in collaboration with with JiJi Fan, Prerit Jaiswal, and John Shing Chau Leung.**
 
+There are different possibilities for stop quark to decay depending on the model
 
-<img src="images/JetpT.png" width="60%">
+$\tilde{t} \longrightarrow t + MET \qquad$ (100% stop-bino, 50% stop-higgsino)
+
+\tilde{t} \longrightarrow b + MET \qquad$ (50% stop-higgsino)
+
+We will demonstrate two of the cuts. The first one we demonstrate is the leading jet $p_T$ cut. From the plot below, we can see that supersymmtric (SUSY) tops typically give a large leading jet $p_T$. This is one of the most powerful tools to separate a SUSY signal from Standard Model background.
+
+<img src="plots/JetpT.png" width="60%">
+
+
+$x_\mu = 1 - \frac{m^2_{j\slashed{\mu}}}{m^2_j}$
+
+
+<img src="plots/massdrop.png" width="60%">
+
+<img src="plots/contours.png" width="60%">
